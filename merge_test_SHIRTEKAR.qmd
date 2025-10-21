@@ -20,7 +20,7 @@ print(df)
 # Select rows subset
 subset = df[df['C'] == 'w']
 
-print("Subset has ", len(subset), "rows.")
+print("Subset has ", len(subset), "rows.") 
 ```
 
 
